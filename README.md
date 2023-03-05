@@ -1,6 +1,6 @@
 travelling salesman problem
 
-by Fabien MICHEL, Kilapang, Gilles MAURER
+by Fabien MICHEL, @kilaposhi, Gilles MAURER
 
 python project for the course of Algorithms and Data Structure in Politechnika Lodzka (Poland)
 
